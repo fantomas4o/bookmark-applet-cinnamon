@@ -54,7 +54,7 @@ You can customize the behavior of the Bookmark Applet by editing the code. Here 
 
 ## Contributions
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to [email protected]
+Contributions are welcome! 
 
 ## License
 

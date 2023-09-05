@@ -13,7 +13,7 @@ The Bookmark Applet allows you to access your bookmarks through a drop-down menu
 1. **Clone the repository:**
 
 ```bash
-git clone http://git.myhomein.eu/fedia/bookmark-applet-cinnamon.git
+git clone https://github.com/fantomas4o/bookmark-applet-cinnamon.git
 ```
 
 2. **Change to the cloned repository directory:**
